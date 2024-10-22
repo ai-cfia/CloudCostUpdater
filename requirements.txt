@@ -1,0 +1,4 @@
+azure-mgmt-costmanagement
+pandas
+openpyxl
+office365-rest-client
